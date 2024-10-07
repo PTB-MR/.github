@@ -24,6 +24,11 @@ Lot's of things happening at PTB. Check it out!
 ## Education
 - [Repositories related to the Thematic Einstein Semester 21/22 on MATHEMATICS OF IMAGING IN REAL-WORLD CHALLENGES](https://github.com/MATHplus-Young-Academy)
 
+
+## Open-source software
+
+- [Bloch-McConnell Simulation Software (BMCTool)](https://github.com/schuenke/BMCTool)
+
 ## Open-source data
 
 ### Data formats for XNAT
