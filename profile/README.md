@@ -8,6 +8,8 @@ Lot's of things happening at PTB. Check it out!
 
 ## MR Sequences
 
+- [Pulseq-CEST library for reproducible CEST MRI](https://github.com/kherz/pulseq-cest-library)
+
 ## Image reconstruction and post-processing
 
 ### Reference methods and comparisons
