@@ -12,16 +12,20 @@ Lot's of things happening at PTB. Check it out!
 
 ## Image reconstruction and post-processing
 
+### Advanced reconstruction methods
+- [Adaptive Dictionary Learning and Sparse Coding für Dynamic Cardiac MRI](https://github.com/koflera/AdaptiveDLMRI)
+
 ### Reference methods and comparisons
 - [Comparison of open-source reconstruction frameworks](https://github.com/ckolbPTB/OpenSourceMrRecon)
-
+- [Evaluation of different Bloch-McConnell simulation methods](https://github.com/pulseq-cest/BMsim_challenge)
 
 ### Deep learning image reconstruction
 
 - [Learning Regularization Parameter-Maps for Variational Image Reconstruction](https://github.com/koflera/LearningRegularizationParameterMaps)
 - [End-To-End Iterative Network for Radial Multi-Coil 2D Cine MR](https://github.com/koflera/DynamicRadCineMRI)
 - [Spatial-temporal Networks for dynamic MRI](https://github.com/koflera/XTYT-CNN)
-
+- [Convolutional Sparsity-based Methods for Dynamic Cardiac MRI](https://github.com/koflera/ConvSparsityNNs)
+- [Patch-based Dictionary Learning with Neural Networks](https://github.com/koflera/End2End-DLMRI)
 
 ## Education
 - [Repositories related to the Thematic Einstein Semester 21/22 on MATHEMATICS OF IMAGING IN REAL-WORLD CHALLENGES](https://github.com/MATHplus-Young-Academy)
