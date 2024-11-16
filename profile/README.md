@@ -40,3 +40,9 @@ Lot's of things happening at PTB. Check it out!
 ### Data formats for XNAT
 [XNAT](https://xnat.org/) support for MR raw data format [(ISMR)MRD](https://github.com/ckolbPTB/xnat-ismrmrd) and PET raw data format [Interfile](https://github.com/ckolbPTB/xnat-interfile).
 
+### Data repositories
+
+- [2D Dynamic Golden radial MR raw data](https://zenodo.org/records/13207352)
+- [3D Golden radial phase encoding MR raw data](https://zenodo.org/records/7903282)
+- [2D Cardiac black-blood TSE MR raw data](https://zenodo.org/records/7468887)
+- [Example MRI data for mrpro](https://zenodo.org/records/10868061)
