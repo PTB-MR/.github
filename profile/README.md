@@ -1,7 +1,7 @@
 
 ![ShimBildBlau](https://github.com/user-attachments/assets/6afb645d-8913-4d56-9a83-45b9916c3811)
 
-Lot's of things happening at PTB. Check it out!
+Lots of things are happening at PTB. Check it out!
 
 ## MR Hardware design and calibration
 
@@ -26,14 +26,21 @@ Lot's of things happening at PTB. Check it out!
 - [Spatial-temporal Networks for dynamic MRI](https://github.com/koflera/XTYT-CNN)
 - [Convolutional Sparsity-based Methods for Dynamic Cardiac MRI](https://github.com/koflera/ConvSparsityNNs)
 - [Patch-based Dictionary Learning with Neural Networks](https://github.com/koflera/End2End-DLMRI)
+- [NoSENSE: Learned unrolled cardiac MRI reconstruction without explicit sensitivity maps](https://github.com/fzimmermann89/CMRxRecon)
+- [Nonlinear Optimisation as a Network Layer](https://github.com/fzimmermann89/ImplicitOptimLayer)
+- [Semi-Supervised Learning for Spatially Regularized qMRI Reconstruction](https://github.com/fzimmermann89/s2wasabi)
+- [A collection of some of MRI/Pytorch-related code fragments](https://github.com/fzimmermann89/torch_mri_utils)
 
 ## Education
 - [Repositories related to the Thematic Einstein Semester 21/22 on MATHEMATICS OF IMAGING IN REAL-WORLD CHALLENGES](https://github.com/MATHplus-Young-Academy)
+- [M4AIM public outreach: Intro to Machine Learning for MRI Reconstruction](https://github.com/fzimmermann89/intro_ai4mri)
 
 
 ## Open-source software
-
+- [MRpro - MR image reconstruction and processing package](https://github.com/PTB-MR/mrpro/)
 - [Bloch-McConnell Simulation Software (BMCTool)](https://github.com/schuenke/BMCTool)
+- [Pytorch EPG MRI Simulation](https://github.com/fzimmermann89/epgtorch)
+
 
 ## Open-source data
 
