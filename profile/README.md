@@ -8,6 +8,13 @@ Lots of things are happening at PTB. Check it out!
 
 ## MR Sequences
 
+### Sequence preparation
+- [Tailored non-selective respiration specific and robust kT-points pTx pulses in the human heart](https://github.com/chaigner/tailored-RRob)
+- [Tailored and universal pulses in the human heart based on a B1+ library](https://github.com/chaigner/UP_body)
+- [Frequency robust tailored and universal kT-points pTx pulses in the human heart](https://github.com/chaigner/FRobUP_body)
+- [Universal RF shims](https://github.com/chaigner/UShim)
+
+### Sequences
 - [Pulseq-CEST library for reproducible CEST MRI](https://github.com/kherz/pulseq-cest-library)
 
 ## Image reconstruction and post-processing
