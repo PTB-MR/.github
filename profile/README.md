@@ -39,6 +39,7 @@ Lots of things are happening at PTB. Check it out!
 - [A collection of MRI/Pytorch-related code fragments](https://github.com/fzimmermann89/torch_mri_utils)
 
 ## Education
+- [MRpro @ "Quantitative Multi-parametric MRI as an Inversion Problem", Utrecht, 2024](https://github.com/PTB-MR/mrpro_utrecht_workshop_2024)
 - [Repositories related to the Thematic Einstein Semester 21/22 on MATHEMATICS OF IMAGING IN REAL-WORLD CHALLENGES](https://github.com/MATHplus-Young-Academy)
 - [M4AIM public outreach: Intro to Machine Learning for MRI Reconstruction](https://github.com/fzimmermann89/intro_ai4mri)
 
